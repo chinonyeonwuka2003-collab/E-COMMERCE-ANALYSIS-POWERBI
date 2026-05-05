@@ -114,9 +114,6 @@ Decision‑makers struggle to identify:
 ### Customer Feedback
 <img width="633" height="357" alt="Customer Feedback" src="https://github.com/user-attachments/assets/203195ea-db60-4f65-a04b-43e77a2f5de0" />
 
-
-*(Replace these placeholders with actual screenshots from Power BI once available.)*
-
 ---
 
 ## ✅ Conclusion
