@@ -101,7 +101,8 @@ Decision‑makers struggle to identify:
 ## 📊 Visualizations
 
 ### Sales Overview Dashboard
-![Sales Overview Dashboard](images/sales_overview.png)
+![Sales Overview Dashboard](images/sales_overview.png)<img width="636" height="469" alt="Sales Overview Dashboard" src="https://github.com/user-attachments/assets/f930534b-5475-4f3c-b9a8-52be24b52e5c" />
+
 
 ### Customer Behavior & Segmentation
 ![Customer Segmentation Dashboard](images/customer_segmentation.png)
