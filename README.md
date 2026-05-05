@@ -99,13 +99,20 @@ Decision‑makers struggle to identify:
 ---
 
 ## 📊 Visualizations
-- Monthly revenue trends (peak in Dec 2022)  
-- Discount vs Sales (flat slope → margin erosion risk)  
-- Revenue by Category & Sub‑Category (Electronics & Appliances dominate)  
-- Product performance (Laptops highest, Shirts lowest)  
-- Payment method revenue distribution (Bank Transfer > PayPal > Credit Card)  
-- Geographic revenue distribution (Arizona leads)  
-- Customer feedback distribution (majority gave no feedback)  
+
+### Sales Overview Dashboard
+![Sales Overview Dashboard](images/sales_overview.png)
+
+### Customer Behavior & Segmentation
+![Customer Segmentation Dashboard](images/customer_segmentation.png)
+
+### Operational & Shipping Insights
+![Operational Insights Dashboard](images/operational_insights.png)
+
+### Customer Feedback
+![Customer Feedback Dashboard](images/customer_feedback.png)
+
+*(Replace these placeholders with actual screenshots from Power BI once available.)*
 
 ---
 
@@ -131,5 +138,3 @@ Decision‑makers struggle to identify:
 ## 📜 License
 This project is for **educational and analytical purposes**.  
 Use responsibly and cite appropriately when referencing.
-
-
