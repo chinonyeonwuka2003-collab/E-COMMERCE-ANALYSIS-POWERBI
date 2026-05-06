@@ -105,7 +105,8 @@ Decision‑makers struggle to identify:
 
 
 ### Customer Behavior & Segmentation
-![Customer Segmentation Dashboard](images/customer_segmentation.png)
+<img width="763" height="432" alt="customer behaviour" src="https://github.com/user-attachments/assets/66fef4bc-77c1-48af-9ee9-18a30452f800" />
+
 
 ### Operational & Shipping Insights
 <img width="634" height="356" alt="Operational and shipping insight" src="https://github.com/user-attachments/assets/d3edc21c-c9d9-499a-8aad-6266a05ab14d" />
